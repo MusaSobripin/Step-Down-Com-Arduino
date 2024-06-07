@@ -80,9 +80,11 @@ Este projeto demonstrou a viabilidade de utilizar um Arduino para controlar um c
 
 ## Autores
 
-- 
-- Nome do Estudante 2
-- Nome do Professor Orientador
+- Antônio Crislân (antoniotorres@aluno.uespi.br)
+- Leone Rodrigues (leonesantos@aluno.uespi.br)
+- Matheus Andrade (matheusuchoa@aluno.uespi.br)
+- Moises Sobrinho (moisessobrinho@aluno.uespi.br)
+- Prof. Dr. José Vigno Moura Sousa (josevigno@prp.uespi.br)
 
 ## Licença
 
