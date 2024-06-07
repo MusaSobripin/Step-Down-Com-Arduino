@@ -24,7 +24,13 @@ Este projeto foi desenvolvido como parte da disciplina de Física II e tem como 
 ## Circuito
 ### Diagrama do Circuito
 
-> ![Diagrama do Circuito](/Circuito_Digital.png)
+**Circuito Digital**
+> ![Diagrama do Circuito](/Circuito%20e%20Componentes/Circuito_Digital.png)
+
+**Circuito no Simulador**
+
+> ![Circuito no Simulador](/Circuito%20e%20Componentes/Step%20Down%20controlado%20por%20Arduino.png)
+
 
 ### Passos do Funcionamento
 
