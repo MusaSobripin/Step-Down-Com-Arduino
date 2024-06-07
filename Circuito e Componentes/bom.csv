@@ -1,0 +1,13 @@
+﻿Nome,Quantidade,Componente
+"BAT1",1," Bateria 9V"
+"U1",1," Arduino Uno R3"
+"T1",1," Transistor nMOS (MOSFET)"
+"Meter2, Meter1",2,"Tensão Multímetro"
+"U2",1,"1 ms Osciloscópio"
+"L2",1,"100 mH Indutor"
+"D2",1," Diodo"
+"T5",1," Transistor NPN (BJT)"
+"C1",1,"100 uF, 9 V Capacitor polarizado"
+"R3",1,"1 MΩ Resistor"
+"R4",1,"10 MΩ Resistor"
+"Rpot2",1,"100 kΩ Potenciômetro"
